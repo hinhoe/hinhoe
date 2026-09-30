@@ -24,10 +24,6 @@
                      \_______\|/_______/
 ```
 
-<p align="center">
-  <img src="./ufo-fly.svg" width="850">
-</p>
-
 
 
 <p align="center">
