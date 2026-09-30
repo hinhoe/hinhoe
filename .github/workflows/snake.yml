@@ -18,8 +18,8 @@ jobs:
         with:
           github_user_name: hinhoe
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#b198e1&color_dots=#161B22,#3b2f5c,#6d4fc2,#9b7ede,#b198e1
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#00e5ff&color_dots=#10131a,#003f4a,#007c8a,#00b8c8,#00e5ff
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
