@@ -41,6 +41,6 @@ hi
 ##
 
 <p align="center">
-  <img src="assets/sonic-devil.gif" width="200">
+  <img src=".github/assets/sonic-devil.gif" width="20000">
 </p>
 
