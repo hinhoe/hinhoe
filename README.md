@@ -6,21 +6,7 @@ hi
 ##### hi
 ###### hi
 
-name: Generate Snake Animation
 
-on:
-  schedule: # Chạy định kỳ mỗi 24 tiếng
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    
     steps:
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
