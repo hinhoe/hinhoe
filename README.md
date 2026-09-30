@@ -23,7 +23,21 @@
                     \       \ | /       /
                      \_______\|/_______/
 ```
+<svg width="100%" height="120" viewBox="0 0 1000 120"
+     xmlns="http://www.w3.org/2000/svg">
 
+  <text x="0" y="70" font-size="50">
+    🛸
+    <animate
+      attributeName="x"
+      values="0;850;0"
+      dur="8s"
+      repeatCount="indefinite"
+      calcMode="spline"
+      keySplines=".4 0 .6 1;.4 0 .6 1"/>
+  </text>
+
+</svg>
 ho ho ho 
 
 <h1><span style="color:#B198E1">hi</span></h1>
