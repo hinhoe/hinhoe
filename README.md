@@ -7,7 +7,7 @@ hi
 ###### hi
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=300&pause=1000&color=B198E1&center=true&vCenter=true&width=600&lines=TAO;DEP;TRAI;VCL;HOHOHOHO" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=300&pause=1000&color=B198E1&center=true&vCenter=true&width=800&height=70&lines=TAO;DEP;TRAI;VCL;HOHOHOHO" />
 </p>
 
 ##
