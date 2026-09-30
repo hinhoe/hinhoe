@@ -1,10 +1,9 @@
-hi 
-# hi
-## hi
-### hi
-#### hi
-##### hi
-###### hi
+<h1 style="color:#B198E1;">hi</h1>
+<h2 style="color:#B198E1;">hi</h2>
+<h3 style="color:#B198E1;">hi</h3>
+<h4 style="color:#B198E1;">hi</h4>
+<h5 style="color:#B198E1;">hi</h5>
+<h6 style="color:#B198E1;">hi</h6>
 
 <p align="center">
 
