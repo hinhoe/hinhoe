@@ -7,8 +7,7 @@ hi
 ###### hi
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=300&pause=1000&color=B198E1&center=true&vCenter=true&width=600&lines=
-    Hi+%F0%9F%91%8B+I'm+anh+seng+dep+zai;
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=300&pause=1000&color=B198E1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+anh+seng+dep+zai;
     IT+Supreme+%F0%9F%92%BB;
     security+%F0%9F%94%90;Web+Meowlopment+%F0%9F%8C%90;
     Learning+meowthing+new+every+nyan+%F0%9F%9A%80" />
