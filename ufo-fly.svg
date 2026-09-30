@@ -1,0 +1,80 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="900"
+    height="180"
+    viewBox="0 0 900 180"
+>
+    <rect width="100%" height="100%" fill="transparent"/>
+
+    <!-- FRAME 1 -->
+    <g opacity="0">
+        <text
+            x="0"
+            y="15"
+            font-family="monospace"
+            font-size="12"
+            fill="currentColor"
+            xml:space="preserve"
+        >
+            <tspan x="0" dy="0">                         .-=========&#x3D;-. </tspan>
+            <tspan x="0" dy="14">                    _.-'               '-._</tspan>
+            <tspan x="0" dy="14">                 .-'                       '-.</tspan>
+            <tspan x="0" dy="14">              .-'_____________________________'-.</tspan>
+            <tspan x="0" dy="14">            .'                                   '.</tspan>
+            <tspan x="0" dy="14">           /_______________________________________\</tspan>
+            <tspan x="0" dy="14">        __/    \___/    \___/    \___/    \___     \__</tspan>
+            <tspan x="0" dy="14">       /_______________________________________________\</tspan>
+            <tspan x="0" dy="14">              \       \       |       /       /</tspan>
+            <tspan x="0" dy="14">               \_______\______|______/_______/</tspan>
+            <tspan x="0" dy="14">                    \       \ | /       /</tspan>
+            <tspan x="0" dy="14">                     \_______\|/_______/</tspan>
+
+            <animate
+                attributeName="x"
+                values="0;150;300;450;600;750"
+                dur="3s"
+                repeatCount="indefinite"
+            />
+
+            <animate
+                attributeName="opacity"
+                values="1"
+                dur="3s"
+                repeatCount="indefinite"
+            />
+        </text>
+    </g>
+
+    <!-- FRAME 2 -->
+    <g>
+        <text
+            x="0"
+            y="15"
+            font-family="monospace"
+            font-size="12"
+            fill="currentColor"
+            xml:space="preserve"
+        >
+            <tspan x="0" dy="0">                         .-=========&#x3D;-. </tspan>
+            <tspan x="0" dy="14">                    _.-'               '-._</tspan>
+            <tspan x="0" dy="14">                 .-'                       '-.</tspan>
+            <tspan x="0" dy="14">              .-'_____________________________'-.</tspan>
+            <tspan x="0" dy="14">            .'                                   '.</tspan>
+            <tspan x="0" dy="14">           /_______________________________________\</tspan>
+            <tspan x="0" dy="14">        __/    \___/    \___/    \___/    \___     \__</tspan>
+            <tspan x="0" dy="14">       /_______________________________________________\</tspan>
+            <tspan x="0" dy="14">              \       \       |       /       /</tspan>
+            <tspan x="0" dy="14">               \_______\______|______/_______/</tspan>
+            <tspan x="0" dy="14">                    \       \ | /       /</tspan>
+            <tspan x="0" dy="14">                     \_______\|/_______/</tspan>
+
+            <animate
+                attributeName="x"
+                values="0;150;300;450;600;750;600;450;300;150;0"
+                keyTimes="0;0.1;0.2;0.3;0.4;0.5;0.6;0.7;0.8;0.9;1"
+                dur="6s"
+                repeatCount="indefinite"
+            />
+        </text>
+    </g>
+</svg>
